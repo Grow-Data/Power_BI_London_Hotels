@@ -29,3 +29,7 @@ Landon Hotels, the acquiring company, currently has sales only in North America 
 ### Key Findings:
 H+ Sports has sales in five countries, while BinaryVille has sales in two.   
 H+ records smaller values for profit and sales across multiple countries, whereas BinaryVille focuses primarily on the US and Canada, boasting significantly higher profit and sales in those regions.
+
+## Acknowlegement
+ [Linkedin Learning](https://www.linkedin.com/learning/)  
+ [Power BI Challenges](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/build-your-skills-with-power-bi)
